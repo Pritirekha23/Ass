@@ -1,0 +1,23 @@
+.aboutussecond {
+    display: flex;
+    justify-content: space-evenly
+    
+  }
+  
+  .abtuscontent {
+    height: 100%; 
+    width: 50%;
+    align-items: center;
+    text-align: justify;
+    color: rgb(94, 84, 84);
+  }
+  .abtusimg2 img{
+    height:95%;
+  }
+  
+  .tabsinabtus{
+    background-color: aqua;
+    height: 70%;
+    /* width: 100%; */
+    margin: 3%;
+  }
