@@ -1,0 +1,38 @@
+.footer{
+    /* margin-top: 5%; */
+    background-color:rgb(10, 1, 1);
+    color: #fff;
+    width: 100vw;
+    font-size: 0.5rem; 
+}
+
+.footerUpper{
+    padding: 10px;
+    display: flex;
+
+    /* justify-content: space-evenly; */
+   
+}
+
+h6{
+    color: rgb(156, 161, 163);
+}
+span{
+    color: blue;
+}
+
+@media (min-width: 768px) {
+    .footerUpper {
+      flex-wrap: nowrap;
+    }
+  }
+
+
+
+  /* for lower footer */
+
+  .lowerfooter{
+    padding: 5px;
+    display: flex;
+    gap: 10%;
+  }
